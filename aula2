@@ -1,0 +1,33 @@
+ Etapa 1: Instalar a JDK (Java Development Kit)
+
+    Acesse: https://www.oracle.com/java/technologies/javase-downloads.html
+
+    Baixe a versão mais recente da JDK (Java SE) compatível com seu sistema operacional (Windows, Mac ou Linux).
+
+    Instale normalmente, aceitando os termos e concluindo a instalação.
+
+    Após instalar, abra o terminal ou prompt de comando e digite:
+
+java -version
+
+Você deve ver a versão do Java instalada. Exemplo:
+
+java version "21.0.1"✅ Etapa 2: Instalar a IntelliJ IDEA (IDE)
+
+    Acesse: https://www.jetbrains.com/idea/
+
+    Baixe a versão Community (gratuita).
+
+    Instale e abra a IDE.
+
+✅ Etapa 3: Criar um novo projeto Java
+
+    Abra a IntelliJ IDEA.
+
+    Clique em "New Project".
+
+    Selecione Java (certifique-se de que a JDK está selecionada).
+
+    Dê um nome ao projeto, por exemplo: MeuPrimeiroProjeto.
+
+    Clique em Finish.
